@@ -104,7 +104,6 @@ while running :
                 enemies.remove(enemy)
                 fires.remove(fire)
                 SCORE += 1
-                print('kill' )
                 break
 
     
